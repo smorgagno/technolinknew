@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technolink</title>
+    <link>https://smorgagno.github.io/technolinknew/it/</link>
+    <description>Recent content on Technolink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 12:52:36 +0600</lastBuildDate>
+    
+	<atom:link href="https://smorgagno.github.io/technolinknew/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sicurezza Assegni Circolari</title>
+      <link>https://smorgagno.github.io/technolinknew/it/blog/assegni/</link>
+      <pubDate>Wed, 01 Jul 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/it/blog/assegni/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at mollis tellus. Integer aliquet turpis sem, id fermentum arcu viverra at.</description>
+    </item>
+    
+    <item>
+      <title>Come rendere sicuro un Estratto Conto mediante QR-CODE</title>
+      <link>https://smorgagno.github.io/technolinknew/it/blog/qr-code/</link>
+      <pubDate>Tue, 30 Jun 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/it/blog/qr-code/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://smorgagno.github.io/technolinknew/it/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/it/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://smorgagno.github.io/technolinknew/it/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/it/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>

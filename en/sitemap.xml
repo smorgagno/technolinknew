@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-8/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/blog/simple-blog-post-7/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/author/john-doe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/author/mark-dinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://smorgagno.github.io/technolinknew/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://smorgagno.github.io/technolinknew/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smorgagno.github.io/technolinknew/tags/"
+                />
+  </url>
+  
+</urlset>
