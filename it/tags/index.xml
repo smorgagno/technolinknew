@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Technolink</title>
-    <link>https://smorgagno.github.io/technolinknew/it/tags/</link>
+    <link>https://localhost/technolinknew/it/tags/</link>
     <description>Recent content in Tags on Technolink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
     
-	<atom:link href="https://smorgagno.github.io/technolinknew/it/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/technolinknew/it/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
