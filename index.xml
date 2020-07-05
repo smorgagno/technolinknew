@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 Technolink all right reserved.  Theme by [gethugothemes](https://gethugothemes.com) </copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 12:52:36 +0600</lastBuildDate>
     
 	<atom:link href="https://smorgagno.github.io/technolinknew/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Signature Verification</title>
+      <link>https://smorgagno.github.io/technolinknew/blog/signature/</link>
+      <pubDate>Sun, 05 Jul 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/blog/signature/</guid>
+      <description>Inaccurate customer&amp;rsquo;s signature verification could lead to an unauthorised payment, with the following risks for the Bank:</description>
+    </item>
+    
+    <item>
+      <title>TOTEM Queues</title>
+      <link>https://smorgagno.github.io/technolinknew/blog/totem/</link>
+      <pubDate>Sun, 05 Jul 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/blog/totem/</guid>
+      <description>Totem is a multi-queues management system: it is currently in use in several Banks with different service areas and different counters for each area.</description>
+    </item>
     
     <item>
       <title>Techno Check</title>
@@ -19,6 +37,15 @@
       
       <guid>https://smorgagno.github.io/technolinknew/blog/technocheck/</guid>
       <description>Technocheck is an innovative, efficient and effective solution for payment methods and meets current and future end-users’ and financial institutions’ needs.</description>
+    </item>
+    
+    <item>
+      <title>Techno-OTP: a signed Once Time Password</title>
+      <link>https://smorgagno.github.io/technolinknew/blog/otp/</link>
+      <pubDate>Wed, 01 Jul 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://smorgagno.github.io/technolinknew/blog/otp/</guid>
+      <description>What&amp;rsquo;s more secure than the current Once Time Password (OTP) solutions to authenticate, for instance, on-line bank transactions?</description>
     </item>
     
     <item>
